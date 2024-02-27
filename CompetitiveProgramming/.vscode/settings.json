@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "queue": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "random": "cpp",
+        "ranges": "cpp",
+        "variant": "cpp",
+        "unordered_set": "cpp",
+        "iterator": "cpp",
+        "set": "cpp",
+        "bitset": "cpp",
+        "format": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "d:\\Programs\\mingw64\\bin\\g++.exe"
+}
